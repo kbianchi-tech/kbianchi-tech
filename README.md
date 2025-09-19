@@ -14,6 +14,7 @@
 ![MQTT](https://img.shields.io/badge/MQTT-663366?style=for-the-badge&logo=mqtt&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%230052CC?style=for-the-badge&logo=trello&logoColor=%23FFFFFF)
 ![AnyDesk](https://img.shields.io/badge/AnyDesk-%23EF443B?style=for-the-badge&logo=AnyDesk&logoColor=%23FFFFFF&logoSize=auto)
+![Notion](https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=Notion&logoColor=%23FFFFFF&logoSize=auto)
 
 ---
 
