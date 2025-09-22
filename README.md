@@ -3,7 +3,6 @@
 - [Cargo]🔭 Atualmente trabalho como **Analista de Suporte Técnico**.
 - [Foco]🌱 Estou focado em aprimorar minhas habilidades em **Python, Linux, MQTT e SQL**.
 - [Ensino]🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
-- [Genero]😄 Pronomes: Ele/Dele
 
 ---
 
