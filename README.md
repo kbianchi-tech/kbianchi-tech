@@ -25,7 +25,7 @@
 
 ## 🎯 Próximos Passos e Objetivos
 
-- [ ] Finalizar curso Pyhton 3
+- [X] Finalizar curso Pyhton 3
 - [ ] Aprender MySQL
 - [ ] Aprender Linux
 - [ ] Aprender git & Github
