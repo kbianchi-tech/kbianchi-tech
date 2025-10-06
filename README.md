@@ -1,8 +1,14 @@
-# 👋 Sobre Mim
+# Kauã Bianchi
+*Estudante de Análise e Desenvolvimento de Sistemas com foco em Python e experiência prática em telemetria e análise de dados MQTT.*
 
-- [Cargo]🔭 Atualmente trabalho como **Analista de Suporte Técnico**.
-- [Foco]🌱 Estou focado em aprimorar minhas habilidades em **Python, Linux, MQTT e SQL**.
-- [Ensino]🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
+---
+
+# ⚡ Sobre Mim
+
+Atualmente Analista de Suporte Técnico, aplico diariamente a lógica na resolução de problemas enquanto construo minha carreira na área de desenvolvimento de software.
+
+- **[Foco]** Desenvolvendo ativamente minhas habilidades em Python, Linux, MQTT e SQL para análise e manipulação de dados.
+- **[Ensino]** Cursando Análise e Desenvolvimento de Sistemas.
 
 ---
 
@@ -14,28 +20,31 @@
 ![Trello](https://img.shields.io/badge/Trello-%230052CC?style=for-the-badge&logo=trello&logoColor=%23FFFFFF)
 ![AnyDesk](https://img.shields.io/badge/AnyDesk-%23EF443B?style=for-the-badge&logo=AnyDesk&logoColor=%23FFFFFF&logoSize=auto)
 ![Notion](https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=Notion&logoColor=%23FFFFFF&logoSize=auto)
-
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=Git&logoColor=white&logoSize=auto)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=GitHub&logoSize=auto)
 ---
 
 ## 📌 Meus Principais Projetos
 
-*Ainda em construção! Volte em breve para ver meus projetos de estudo e pessoais.*
+#### 📖 [Curso de Python 3 - Gustavo Guanabara](https://github.com/kbianchi-tech/Curso_Python_Guanabara)
+Repositório dedicado a todos os exercícios e projetos desenvolvidos durante o curso. É um registro prático da minha evolução na linguagem Python, cobrindo desde a lógica fundamental até a manipulação de estruturas de dados e manipulação de arquivos.
+- **Habilidades:** Lógica de Programação, Manipulação de Dados, Versionamento de Código com Git.
 
 ---
 
 ## 🎯 Próximos Passos e Objetivos
 
-- [X] Finalizar curso Pyhton 3
+- [X] Finalizar curso Python 3
 - [ ] Aprender MySQL
 - [ ] Aprender Linux
-- [ ] Aprender git & Github
+- [X] Aprender git & Github
 - [ ] Desenvolver um projeto full-stack para o portfólio.
 - [ ] Conquistar minha primeira vaga como Desenvolvedor Jr.
 
 ---
 ## ⚡ Curiosidades
 
-- [Hobbies] 🏖 Futebol, Games(Fifa, COD BOPS2), Correr
+- **[Hobbies]** Futebol, Games (Fifa, COD BOPS2), Correr.
 - Nas horas vagas, gosto de explorar sobre python, Iot.
 - Sou um grande fã de jogos de estratégia e ficção científica.
 ---
