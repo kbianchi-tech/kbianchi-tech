@@ -15,13 +15,13 @@ Atualmente Analista de Suporte Técnico, aplico diariamente a lógica na resolu�
 ## 💻 Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=Git&logoColor=white&logoSize=auto)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=GitHub&logoSize=auto)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto)
 ![MQTT](https://img.shields.io/badge/MQTT-663366?style=for-the-badge&logo=mqtt&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%230052CC?style=for-the-badge&logo=trello&logoColor=%23FFFFFF)
 ![AnyDesk](https://img.shields.io/badge/AnyDesk-%23EF443B?style=for-the-badge&logo=AnyDesk&logoColor=%23FFFFFF&logoSize=auto)
-![Notion](https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=Notion&logoColor=%23FFFFFF&logoSize=auto)
-![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=Git&logoColor=white&logoSize=auto)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=GitHub&logoSize=auto)
+
 ---
 
 ## 📌 Meus Principais Projetos
@@ -35,9 +35,9 @@ Repositório dedicado a todos os exercícios e projetos desenvolvidos durante o 
 ## 🎯 Próximos Passos e Objetivos
 
 - [X] Finalizar curso Python 3
-- [ ] Aprender MySQL
+- [X] Aprender MySQL
 - [ ] Aprender Linux
-- [X] Aprender git & Github
+- [X] Aprender Git & Github
 - [ ] Desenvolver um projeto full-stack para o portfólio.
 - [ ] Conquistar minha primeira vaga como Desenvolvedor Jr.
 
